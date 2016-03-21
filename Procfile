@@ -1,1 +1,1 @@
-web: gunicorn iknowthecube
+web: gunicorn wsgi
