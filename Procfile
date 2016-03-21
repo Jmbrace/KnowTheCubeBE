@@ -1,1 +1,1 @@
-web: gunicorn hello:iknowthecube
+web: gunicorn iknowthecube
