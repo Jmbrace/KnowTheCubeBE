@@ -1,1 +1,1 @@
-web: gunicorn iknowthecube.wsgi
+web: gunicorn app.wsgi
